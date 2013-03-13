@@ -1,4 +1,4 @@
-test3
+just solution to speed up Django tests
 =====
 
-test task
+testing task
